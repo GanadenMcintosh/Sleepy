@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SleepyOwls</title>
+<title>Sleepy</title>
 <style>
 body {
 font-family: Arial, sans-serif;
@@ -46,7 +46,7 @@ color: #777;
 </head>
 <body>
 <header>
-<h1>Welcome to My Introduction Website!My Little Owls!!</h1>
+<h1>Welcome to My Website you Owls!</h1>
 </header>
 <nav>
 <a href="#">Home</a>
@@ -55,7 +55,7 @@ color: #777;
 </nav>
 <main>
 <h2>About This Page</h2>
-<p>This is where I introduce some of my OC</p>
+<p>This website is where i talk about usually my sleeping habits since I'm always sleepy</p>
 <h3>Features</h3>
 <ul>
 <li>Easy to edit and customize.</li>

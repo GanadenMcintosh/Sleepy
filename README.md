@@ -9,13 +9,13 @@
 <style>
 body {
 font-family: Arial, sans-serif;
-background-color: #afd0e1;
+background-color: #AC3D2;
 margin: 0;
 padding: 20px;
 color: #333;
 }
 header {
-background-color: #BCCBCE;
+background-color: #BFD4DB;
 color: Sleepy Blue;
 padding: 10px 0;
 text-align: center;
@@ -55,7 +55,8 @@ color: #777;
 </nav>
 <main>
 <h2>About This Page</h2>
-<p>This website is where i talk about usually my sleeping habits since I'm always sleepy</p>
+<p>This website is where i talk about usually my sleeping habits since I'm always sleepy
+quite funny after the exams i slept 3 times a day!(I'm seriously worried about this)</p>
 <h3>Features</h3>
 <ul>
 <li>Easy to edit and customize.</li>
@@ -64,7 +65,7 @@ color: #777;
 </ul>
 </main>
 <footer>
-&copy; 2024 My Sample Webpage. All rights reserved.
+&copy; Sleepy days and nights. All rights reserved.
 </footer>
 </body>
 </html>
